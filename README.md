@@ -106,5 +106,4 @@ This guide provides step-by-step instructions and guidelines for creating a data
 
 8. **Share Your Diagram:**
     - Share your diagram by clicking the "Share" button and providing collaborators with the link.
-    - Click here to view this db design:[Design DB Guvi zen class]
- (https://dbdiagram.io/d/Design-DB-Guvi-zen-class-66730ede5a764b3c72e7fe6d)
+    - Click here to view this db design:[Design DB Guvi zen class](https://dbdiagram.io/d/Design-DB-Guvi-zen-class-66730ede5a764b3c72e7fe6d)
